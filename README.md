@@ -19,7 +19,8 @@ Installation
     Navigate to the WordPress admin panel and activate the plugin.
 
 Usage
-Delete All Products
+
+## Delete All Products
 
 Deletes all products from the WooCommerce store.
 Options
@@ -33,7 +34,7 @@ bash
 nvm products delete
 nvm products delete --yes
 
-Export Products to CSV
+## Export Products to CSV
 
 Exports products to a CSV file with optional filters.
 Options
@@ -50,7 +51,7 @@ bash
 wp nvm products export_csv --att=pa_manufacturer --slug=brand-slug --sku=SKU123 /path/to/export.csv
 wp nvm products export_csv /path/to/export.csv
 
-Set Products as 'Out of Stock'
+## Set Products as 'Out of Stock'
 
 Marks products as 'out of stock', with filtering options.
 Options
@@ -67,7 +68,7 @@ bash
 wp nvm set*outofstock --att=pa_color --slug=red
 wp nvm set_outofstock --sku=SKU123*
 
-Update Products from CSV
+## Update Products from CSV
 
 Updates product details from a CSV file.
 Options
