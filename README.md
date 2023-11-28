@@ -1,7 +1,9 @@
 # nvm-wp-cli-extensions
 
-NVM WooCommerce Plugin
+Nevma extend wp-cli for WooCommerce Plugin
 Description
+
+Please backup before making any use of it!
 
 This plugin extends WooCommerce capabilities by introducing new command-line functionalities. It allows for efficient management and manipulation of WooCommerce products through WP-CLI commands.
 Features
