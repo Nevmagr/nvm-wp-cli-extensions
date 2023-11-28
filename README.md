@@ -1,4 +1,4 @@
-# nvm-wp-cli-extensions
+# Nevma extend wp-cli for WooCommerce Plugin
 
 Nevma extend wp-cli for WooCommerce Plugin
 Description
