@@ -1,9 +1,8 @@
-# Nevma extend WP-CLI for WooCommerce Plugin
+# Εxtend WP-CLI for WooCommerce by Nevma
 
-Nevma extend wp-cli for WooCommerce Plugin
 Description
 
-Please backup before making any use of it!
+Please always backup before making any use of it!
 
 This plugin extends WooCommerce capabilities by introducing new command-line functionalities. It allows for efficient management and manipulation of WooCommerce products through WP-CLI commands.
 Features
