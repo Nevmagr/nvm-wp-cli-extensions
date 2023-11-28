@@ -9,8 +9,8 @@ This plugin extends WooCommerce capabilities by introducing new command-line fun
 Features
 
     Delete All Products: Quickly delete all products from your WooCommerce store.
-    Export Products to CSV: Export products to a CSV file with filtering options.
     Set Products as 'Out of Stock': Mark products as 'out of stock', with filtering capabilities.
+    Export Products to CSV: Export products to a CSV file with filtering options.
     Update Products from CSV: Update product details, including stock and prices, from a CSV file.
 
 Installation
